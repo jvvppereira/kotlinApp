@@ -970,8 +970,8 @@ int id pin 0x7f080089
 int id progress_circular 0x7f08008a
 int id progress_horizontal 0x7f08008b
 int id radio 0x7f08008c
-int id receivementRadioGroup 0x7f08008d
-int id recievementRadioButton 0x7f08008e
+int id receivementRadioButton 0x7f08008d
+int id receivementRadioGroup 0x7f08008e
 int id referenceDateEditText 0x7f08008f
 int id referenceMonthTextView 0x7f080090
 int id resumeCardView 0x7f080091

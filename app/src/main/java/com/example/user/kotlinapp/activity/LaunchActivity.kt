@@ -16,7 +16,6 @@ class LaunchActivity : AppCompatActivity(){
 
     private val mDatabase = FirebaseSettings().getDatabaseInstance()
     val message = Message(this)
-    var launch: Launch? = null
     var operation: String = ""
     var index: Int = 0
     var userUid: String = ""
@@ -42,9 +41,34 @@ class LaunchActivity : AppCompatActivity(){
             loadDateOpenField(dueDateEditText)
             loadDateOpenField(paymentDateEditText)
 
+            if (operation == "UPDATE") {
+                loadValuesOfUpdate()
+            }
+
             floatingActionButton.setOnClickListener({
                 save()
             })
+        }
+    }
+
+    private fun loadValuesOfUpdate() {
+        val loadedLaunch = intent.extras["launch"] as Launch
+
+        nameEditText.text.insert(0, loadedLaunch.name)
+        valueEditText.text.insert(0, loadedLaunch.value.toString())
+        dueDateEditText.text.clear()
+        dueDateEditText.text.insert(0, mDateFormat.format(loadedLaunch.dueDate))
+        paymentDateEditText.text.clear()
+        if (loadedLaunch.paymentDate === 0L) {
+            paymentDateEditText.text.insert(0, "")
+            dontKnowCheckBox.isChecked = true
+        } else {
+            paymentDateEditText.text.insert(0, mDateFormat.format(loadedLaunch.paymentDate))
+        }
+        if (loadedLaunch.receivement) {
+            receivementRadioButton.isChecked = true
+        } else {
+            paymentRadioButton.isChecked = true
         }
     }
 
@@ -82,7 +106,7 @@ class LaunchActivity : AppCompatActivity(){
         launch.paymentDate =
                 if (dontKnowCheckBox.isChecked) 0
                 else mDateFormat.parse(paymentDateEditText.text.toString()).time
-        launch.receivement = recievementRadioButton.isChecked
+        launch.receivement = receivementRadioButton.isChecked
         launch.name = nameEditText.text.toString()
         launch.index = index
         launch.userUid = userUid

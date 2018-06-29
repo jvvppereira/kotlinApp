@@ -1,27 +1,27 @@
 [
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
-        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
-        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\92b0552f39d9c6a09a99a372f0624770\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility.png.flat",
-        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\92b0552f39d9c6a09a99a372f0624770\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_id_delete_white_24.xml.flat",
@@ -32,16 +32,16 @@
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\21f40db835ffe1549979a547f02db160\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\sdk\\projects\\KotlinApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\color_design_tint_password_toggle.xml.flat",
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\92b0552f39d9c6a09a99a372f0624770\\res\\color\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "C:\\sdk\\projects\\KotlinApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\21f40db835ffe1549979a547f02db160\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -52,12 +52,12 @@
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\4223add38c97e5be806c8670b9479386\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
-        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\21f40db835ffe1549979a547f02db160\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
@@ -84,12 +84,12 @@
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_edittext.xml.flat",
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -100,12 +100,12 @@
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
-        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -132,12 +132,12 @@
         "source": "C:\\sdk\\projects\\KotlinApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\id_add_white_24dp.xml"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
-        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\4223add38c97e5be806c8670b9479386\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -148,12 +148,12 @@
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_material.xml.flat",
@@ -268,12 +268,12 @@
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility.png.flat",
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\92b0552f39d9c6a09a99a372f0624770\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -340,12 +340,12 @@
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
-        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_launch_crud.xml.flat",
         "source": "C:\\sdk\\projects\\KotlinApp\\app\\src\\main\\res\\layout\\launch_crud.xml"
+    },
+    {
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
@@ -360,12 +360,12 @@
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\sdk\\projects\\KotlinApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\sdk\\projects\\KotlinApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -388,12 +388,12 @@
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\92b0552f39d9c6a09a99a372f0624770\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\4223add38c97e5be806c8670b9479386\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -452,12 +452,12 @@
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\92b0552f39d9c6a09a99a372f0624770\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
-    },
-    {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\92b0552f39d9c6a09a99a372f0624770\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.2.aar\\92b0552f39d9c6a09a99a372f0624770\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -480,12 +480,12 @@
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\21f40db835ffe1549979a547f02db160\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -504,20 +504,20 @@
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
-        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\color-v23\\abc_tint_default.xml"
-    },
-    {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
+        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\color-v23\\abc_tint_default.xml"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -544,20 +544,20 @@
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_id_add_white_24dp.png.flat",
-        "source": "C:\\sdk\\projects\\KotlinApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\id_add_white_24dp.png"
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\4223add38c97e5be806c8670b9479386\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
         "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\4223add38c97e5be806c8670b9479386\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_id_add_white_24dp.png.flat",
+        "source": "C:\\sdk\\projects\\KotlinApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\id_add_white_24dp.png"
+    },
+    {
+        "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\sdk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\bde29a5c4dca95ac43b11947effba541\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\sdk\\projects\\KotlinApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",

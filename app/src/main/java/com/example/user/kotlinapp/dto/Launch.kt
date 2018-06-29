@@ -1,8 +1,9 @@
 package com.example.user.kotlinapp.dto
 
+import java.io.Serializable
 import java.util.*
 
-class Launch {
+class Launch : Serializable {
     var paymentDate: Long = 0L
     var dueDate: Long = 0L
     var value: Float = 0F
@@ -20,4 +21,6 @@ class Launch {
     fun getDueDateAsDate(): Date {
         return Date(dueDate)
     }
+
+    fun Float.format(digits: Int = 2) = java.lang.String.format("%.${digits}f", this)
 }

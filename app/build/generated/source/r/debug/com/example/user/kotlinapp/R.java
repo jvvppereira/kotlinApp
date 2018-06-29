@@ -3800,8 +3800,8 @@ public final class R {
     public static final int progress_circular=0x7f08008a;
     public static final int progress_horizontal=0x7f08008b;
     public static final int radio=0x7f08008c;
-    public static final int receivementRadioGroup=0x7f08008d;
-    public static final int recievementRadioButton=0x7f08008e;
+    public static final int receivementRadioButton=0x7f08008d;
+    public static final int receivementRadioGroup=0x7f08008e;
     public static final int referenceDateEditText=0x7f08008f;
     public static final int referenceMonthTextView=0x7f080090;
     public static final int resumeCardView=0x7f080091;

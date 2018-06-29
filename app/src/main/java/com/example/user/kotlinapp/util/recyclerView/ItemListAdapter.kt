@@ -56,11 +56,11 @@ class ItemListAdapter(
             payOrReceive.text = if (launch.receivement) "Recebimento" else "Pagamento"
 
             itemView.setOnClickListener {
-                //TODO edit
                 val intent = Intent(itemView.context, LaunchActivity::class.java)
                 intent.putExtra("index", launch.index)
                 intent.putExtra("operation", "UPDATE")
                 intent.putExtra("userUid", launch.userUid)
+                intent.putExtra("launch", launch)
                 itemView.context.startActivity(intent)
             }
         }
