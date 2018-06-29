@@ -124,9 +124,9 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\sdk\.gradle\caches\transfo
 	android:label
 		ADDED from C:\sdk\projects\KotlinApp\app\src\main\AndroidManifest.xml:11:9-41
 	android:roundIcon
-		ADDED from C:\sdk\projects\KotlinApp\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from C:\sdk\projects\KotlinApp\app\src\main\AndroidManifest.xml:12:9-66
 	android:icon
-		ADDED from C:\sdk\projects\KotlinApp\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from C:\sdk\projects\KotlinApp\app\src\main\AndroidManifest.xml:10:9-61
 	android:allowBackup
 		ADDED from C:\sdk\projects\KotlinApp\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
